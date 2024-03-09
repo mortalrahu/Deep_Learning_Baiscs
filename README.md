@@ -88,3 +88,76 @@ Deep learning has found applications in various domains, each forming a speciali
 
 These areas represent the interdisciplinary nature of deep learning, where the same techniques can be applied to solve different problems across diverse domains. The field is dynamic, with new applications emerging regularly.
 
+While I teach myself about the above mentioned applications of deep learning in various domains, I simultaneously also hope to explore different sections or subfields within deep learning:
+
+1. **Feedforward Neural Networks (FNNs)**:
+   - Single-layer perceptrons
+   - Multi-layer perceptrons (MLPs)
+
+2. **Convolutional Neural Networks (CNNs)**:
+   - Image recognition
+   - Object detection
+   - Image segmentation
+
+3. **Recurrent Neural Networks (RNNs)**:
+   - Natural Language Processing (NLP)
+   - Time series prediction
+
+4. **Long Short-Term Memory Networks (LSTMs)**:
+   - Sequences with long-term dependencies
+
+5. **Generative Adversarial Networks (GANs)**:
+   - Image generation
+   - Style transfer
+
+6. **Autoencoders**:
+   - Dimensionality reduction
+   - Anomaly detection
+
+7. **Transfer Learning**:
+   - Fine-tuning pre-trained models
+
+8. **Reinforcement Learning**:
+   - Game playing
+   - Robotics
+
+9. **Self-Supervised Learning**:
+   - Learning from unlabeled data
+
+10. **Explainable AI (XAI)**:
+    - Interpretable models
+    - Explainability in deep learning
+
+11. **Neuroevolution**:
+    - Evolutionary algorithms for neural network optimization
+
+12. **Quantum Machine Learning**:
+    - Integration of quantum computing with deep learning
+
+13. **Neuromorphic Computing**:
+    - Models inspired by the structure and function of the human brain
+
+14. **Meta-Learning**:
+    - Learning to learn
+
+15. **Federated Learning**:
+    - Decentralized model training across multiple devices
+
+16. **Capsule Networks**:
+    - Hierarchical representation learning
+
+17. **Attention Mechanisms**:
+    - Transformers for sequence-to-sequence tasks
+
+18. **Neural Architecture Search (NAS)**:
+    - Automated design of neural network architectures
+
+19. **Probabilistic Neural Networks**:
+    - Uncertainty modeling in predictions
+
+20. **Adversarial Training**:
+    - Robustness against adversarial attacks
+
+This list provides an overview of the diverse areas within deep learning, each with its unique applications and challenges. The field is continuously evolving, with new techniques and architectures being developed regularly.
+
+
