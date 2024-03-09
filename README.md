@@ -12,7 +12,11 @@ Deep learning has found applications in various domains, each forming a speciali
 
 2. **Natural Language Processing (NLP)**:
 
-  - Sentiment analysis
+   - Image classification
+   - Object detection
+   - Image segmentation
+   - Face recognition
+   - Image generation- Sentiment analysis
   - Named Entity Recognition (NER)
   - Machine translation
   - Text summarization
