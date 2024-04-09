@@ -8,6 +8,8 @@ Deep learning has found applications in various domains, each forming a speciali
    - Object detection
    - Image segmentation
    - Face recognition
+   - Video Face recognition
+   - 3d Image Classification
    - Image generation
 
 2. **Natural Language Processing (NLP)**:
@@ -16,6 +18,7 @@ Deep learning has found applications in various domains, each forming a speciali
    - Named Entity Recognition (NER)
    - Machine translation
    - Text summarization
+   - Automatic Speech Recognition
    - Question-Answering systems
    - Natural Language Generation (NLG)
    - Chatbots and conversational agents
